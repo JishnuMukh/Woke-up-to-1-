@@ -1,0 +1,8 @@
+{
+  "name": "The Last 1% - Panic Simulator",
+  "description": "A high-stakes survival simulator where you wake up to 1% battery and must race against the clock to complete essential tasks before your phone dies.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

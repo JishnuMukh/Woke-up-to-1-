@@ -1,0 +1,15 @@
+{
+  "name": "woke-up-to-1-percent",
+  "version": "1.0.0",
+  "description": "The Last 1% - Panic Simulator",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build complete')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
